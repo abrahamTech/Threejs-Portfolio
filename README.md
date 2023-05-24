@@ -32,6 +32,8 @@ Link: https://tailwindcss.com/docs/installation
 2.- npx tailwindcss init -p
 Link: https://tailwindcss.com/docs/guides/vite
 
+*IMPORTANT
+Loader Component is to show the load percentage of the 3d model canvas, if we don't use, when we refresh the page, we are going to see all the page black
 
 *Pages with 3d Models
 1.- https://sketchfab.com/3d-models?date=week&features=downloadable&sort_by=-likeCount
