@@ -36,6 +36,13 @@ npx tailwind init -p
 ```
 Link: https://tailwindcss.com/docs/installation
 
+## EmailJs.com
+If you want that the contact section gives you information to your email, you need to use `emailjs.com` you will have free 200 emails.
+
+* First: Add New Service, save the `Service ID`
+* Second: Create an email template, save the `Template ID`
+* Third: Go to your name in the navbar and save the `public key`
+
 *Tailwind VITE Instalation Using REACT (Adding "--legacy-peer-deps" again for older packages)
 1.- npm install -D tailwindcss --legacy-peer-deps -D postcss autoprefixer
 2.- npx tailwindcss init -p
