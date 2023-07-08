@@ -96,6 +96,7 @@ const Contact = () => {
         variants={slideIn("right", "tween", 0.2, 1)}
         className="xl:flex-1 xl:h-auto md:h-[550px] h-[350px]"
       >
+        {/* Has a problem that when you shorten and lengthen the window the space where the Canvas is displayed remains large and does not adapt */}
         <EarthCanvas />
       </motion.div>
 
